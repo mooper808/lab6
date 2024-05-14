@@ -1,0 +1,70 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.bun-top {
+  height: 75px; /* Modified height */
+  width: 62%; /* Modified width */
+  background: #d99f4a; /* Modified color */
+  border-radius: 100px 100px 20px 20px;
+  border-bottom: solid 10px rgba(0,0,0,.1);
+}
+
+.cheese {
+  height: 18px; /* Modified height */
+  width: 68%; /* Modified width */
+  background: #ebc12b; /* Modified color */
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.tomato {
+  height: 25px;
+  width: 50%;
+  background-color: #c9360e; /* Modified color */
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.meatball {
+  height: 60px;
+  width: 70px;
+  background: #6b340c; /* Modified color */
+  border-radius: 50px;
+  display: inline-block;
+  vertical-align: top;
+}
+
+.patty {
+  height: 35px;
+  width: 65%;
+  background: #9c330a; /* Modified color */
+  border-radius: 15px;
+  border-bottom: solid 2px rgba(0,0,0,.1);
+}
+
+.pickle {
+  height: 30px;
+  width: 50%;
+  background: #34b26d; /* Modified color */
+  border-radius: 0 0 100px 100px;
+  border-bottom: solid 10px #2d9961;
+}
+
+.onion {
+  width: 40%;
+  background-color: #8c33a6; /* Modified color */
+  border-top: dotted 20px rgba(255,255,255,.2);
+}
+
+.bun-bottom {
+  height: 35px;
+  width: 60%;
+  background: #d99f4a; /* Modified color */
+  border-radius: 20px 20px 40px 40px;
+  border-top: solid 8px rgba(0,0,0,.1);
+}
+
+.plate {
+  height: 25px;
+  width: 80%;
+  background: #5a5a5a; /* Modified color */
+  border-radius: 20px 20px 200px 200px;
+}
